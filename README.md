@@ -1,2 +1,12 @@
-# Name-Generator
-Simple Python/PyQt5 program
+# NAME CREATOR APPLICATION
+
+This is an Python application which is written by `PyQt5` library to create random names.
+
+### RUN 
+
+` $ python3 app.py name.txt surname.txt `
+
+### REQUIREMENTS
+
+-	Python3
+-	PyQt5
